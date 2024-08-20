@@ -1,0 +1,25 @@
+- riverpod library
+- googletext library
+- listview.builder widget
+- form widget
+- singlechildscrollview widget
+- image picker library
+- take picture feature
+- Image library
+- GestureDetector widget
+- CircleAvatar widget
+- Stack widget
+- positioned widget
+- location library
+- http library
+- Google geocoding api
+- google map static api
+- ENvied library
+- securing api key in android manifest
+- google maps screen and marker
+- google maps picked place
+- pass data between screen
+- path_provider library
+- path library
+- sqflite library
+- FutureBuilder widget
